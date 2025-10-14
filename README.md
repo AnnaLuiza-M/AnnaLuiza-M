@@ -4,7 +4,9 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
+  <b>`プログラマ`</b><br>
+<b>Programmeuse</b>
+
   <samp>
       <br>
       Hi there! I'm <b>Anna Luiza</b>
@@ -12,7 +14,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;Be+welcome!" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Software+Engineering+student;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
